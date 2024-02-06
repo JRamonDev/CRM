@@ -1,0 +1,65 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Junior",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Nueva Nota",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "3",
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Joseph Gerardo",
+      "empresa": "Conserfic S.A",
+      "email": "miguel@juan.com",
+      "telefono": "319381983",
+      "notas": "Gonzalez",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "6",
+      "nombre": "Ramón",
+      "empresa": "Conserfic S.A",
+      "email": "ramon@ramon.com",
+      "telefono": "839102",
+      "notas": "Hola"
+    },
+    {
+      "id": "e2d1",
+      "nombre": "Fiuyen",
+      "empresa": "Star Credit",
+      "email": "fiuyen@fiuyen.com",
+      "telefono": "1219921",
+      "notas": "Nice"
+    },
+    {
+      "nombre": "Jarima",
+      "empresa": "Conserfic S.A",
+      "email": "jarima@gmail.com",
+      "telefono": "121221212",
+      "notas": "Nueva Nota",
+      "id": "c021"
+    }
+  ]
+}
